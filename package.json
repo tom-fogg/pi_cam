@@ -1,0 +1,29 @@
+{
+  "name": "pi_cam",
+  "version": "0.0.0",
+  "description": "a server for controlling a pi_cam unit",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tom-fogg/pi_cam.git"
+  },
+  "keywords": [
+    "raspberry",
+    "pi",
+    "express",
+    "socket.io",
+    "raspicam"
+  ],
+  "author": "Tom Cox",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tom-fogg/pi_cam/issues"
+  },
+  "homepage": "https://github.com/tom-fogg/pi_cam",
+  "dependencies": {
+    "express": "^4.0.0"
+  }
+}
